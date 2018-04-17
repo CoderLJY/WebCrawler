@@ -1,0 +1,11 @@
+D:\MyDotNetTravel\WebCrawler\bin\Debug\netcoreapp2.0\WebCrawler.deps.json
+D:\MyDotNetTravel\WebCrawler\bin\Debug\netcoreapp2.0\WebCrawler.runtimeconfig.json
+D:\MyDotNetTravel\WebCrawler\bin\Debug\netcoreapp2.0\WebCrawler.runtimeconfig.dev.json
+D:\MyDotNetTravel\WebCrawler\bin\Debug\netcoreapp2.0\WebCrawler.dll
+D:\MyDotNetTravel\WebCrawler\bin\Debug\netcoreapp2.0\WebCrawler.pdb
+D:\MyDotNetTravel\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.csprojResolveAssemblyReference.cache
+D:\MyDotNetTravel\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.csproj.CoreCompileInputs.cache
+D:\MyDotNetTravel\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.AssemblyInfoInputs.cache
+D:\MyDotNetTravel\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.AssemblyInfo.cs
+D:\MyDotNetTravel\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.dll
+D:\MyDotNetTravel\WebCrawler\obj\Debug\netcoreapp2.0\WebCrawler.pdb
